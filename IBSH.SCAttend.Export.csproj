@@ -155,7 +155,6 @@
     <Content Include="Library\FISCA.UDT.dll" />
     <Content Include="Library\IntelliSchool.DSA.ClientFramework.dll" />
     <Content Include="Library\IntelliSchool.DSA.ClientFramework.xml" />
-    <Content Include="Library\JHSchool.Data.dll" />
     <Content Include="Library\K12.Data.dll" />
     <Content Include="Library\K12.Presentation.dll" />
     <Content Include="Library\SmartSchool.API.PlugIn.dll" />
